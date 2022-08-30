@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **vellamyclarence@gmail.com**
+- 📫 How to reach me : **vellamyclarence@gmail.com**
 
-- ⚡ Fun fact **an 18 year old with last education background was tourism bussiness**
+- ⚡ Fun fact : **an 18 year old with last education background was tourism bussiness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
