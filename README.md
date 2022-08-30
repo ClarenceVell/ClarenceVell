@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Clarence 👋</h1>
 <h3 align="center">Frontend developer from Indonesia</h3>
-<img align='right' alt='Coding' width='400' src='https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif'>
+<img align='right' alt='Coding' width='380' src='https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarencevell&label=Profile%20views&color=0e75b6&style=flat" alt="clarencevell" /> </p>
 
