@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarencevell&label=Profile%20views&color=0e75b6&style=flat" alt="clarencevell" /> </p>
 
-- 🔭 I’m currently work at [Axrail Pte Ltd](https://www.axrail.com/)
+- 👨‍💻 All of my projects are available at [https://clarence-portfolio.netlify.app/](https://clarence-portfolio.netlify.app/)
 
 - 🌱 I’m currently learning **Web & mobile**
 
