@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarencevell&label=Profile%20views&color=0e75b6&style=flat" alt="clarencevell" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://clarence-portfolio.netlify.app/](https://bit.ly/portfolio-clarence)
+- 👨‍💻 All of my projects are available at ['My Portfolio'](https://bit.ly/portfolio-clarence)
 
 - 🌱 I’m currently learning **Web & mobile**
 
