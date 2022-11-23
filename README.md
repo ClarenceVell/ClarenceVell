@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarencevell&label=Profile%20views&color=0e75b6&style=flat" alt="clarencevell" /> </p>
 
+- 🔭 I’m currently working at [DZH International](https://www.dzhintl.com/)
+
 - 👨‍💻 All of my projects are available at [My Portfolio](https://bit.ly/portfolio-clarence)
 
 - 🌱 I’m currently learning **Web & mobile**
